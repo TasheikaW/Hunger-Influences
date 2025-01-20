@@ -30,14 +30,25 @@ Source: Food and Agriculture Organization (FAO).
 - Addressed null values and dropped irrelevant columns (e.g., "Year Code").
 - Standardized variable names for consistency across datasets.
 
+## Guiding Questions
+
+1. How have hunger levels changed over time in different countries, and which countries show improvements or declines?
+2. What regions have been most affected in our climate data and has this possibly impacted global hunger and malnutrition deaths?
+3. How have changes in agricultural produce impacted global hunger in regions with the highest global hunger index score?
+
 
 ## Data Analysis and Results
 
 This section outlines key analyses performed to uncover the factors influencing world hunger using five datasets: Global Hunger Index, Economic Indicators, Climate, Agriculture, and Malnutrition.
 
+#### Key Findings:
+A global decline in hunger scores was observed, indicating progress in reducing hunger.
+Disparities persist: Yemen and Venezuela experienced the most significant increases in hunger scores due to socio-economic and political instability.
+Mongolia and China achieved notable progress, reducing hunger by ~80%, linked to improved economic and agricultural policies.
 
 
-
+<img width="691" alt="Image" src="https://github.com/user-attachments/assets/af0470c6-6cbe-4bce-880a-ed7bc0bbc127" />
+<img width="694" alt="Image" src="https://github.com/user-attachments/assets/f54835e3-08d0-4c0d-a9b7-d51c8bda475e" />
 
 
 
